@@ -1,1 +1,3 @@
-# 换电脑时发现学校期间ASGD算法的实现，传一下
+# Gradient Descent
+
+Stochastic Gradient Descent, Mini-batch Stochastic Gradient Descent, Averaged Stochastic Gradient Descent
