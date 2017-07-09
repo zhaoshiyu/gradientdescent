@@ -1,4 +1,8 @@
-package org.zsy.gradientdescent;
+package org.zsyu.ml.gd;
+
+import org.zsyu.ml.gd.ASGD;
+import org.zsyu.ml.gd.GD;
+import org.zsyu.ml.gd.SGD;
 
 import junit.framework.TestCase;
 

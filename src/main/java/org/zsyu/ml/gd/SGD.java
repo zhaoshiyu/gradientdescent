@@ -1,4 +1,4 @@
-package org.zsy.gradientdescent;
+package org.zsyu.ml.gd;
 
 
 /**
