@@ -1,4 +1,4 @@
-package org.zsyu.ml.gd;
+package com.zhshyu.ml.gd;
 
 
 /**

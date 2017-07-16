@@ -1,8 +1,8 @@
-package org.zsyu.ml.gd;
+package com.zhshyu.ml.gd;
 
-import org.zsyu.ml.gd.ASGD;
-import org.zsyu.ml.gd.GD;
-import org.zsyu.ml.gd.SGD;
+import com.zhshyu.ml.gd.ASGD;
+import com.zhshyu.ml.gd.GD;
+import com.zhshyu.ml.gd.SGD;
 
 import junit.framework.TestCase;
 
